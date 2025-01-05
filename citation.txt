@@ -1,0 +1,8 @@
+@article{REPO143,
+    author = "Yu, Wenhui and Lin, Xiao and Liu, Jinfei and Ge, Junfeng and Ou, Wenwu and Qin, Zheng",
+    journal = "IEEE Transactions on Knowledge and Data Engineering",
+    number = "12",
+    title = "{Self-Propagation Graph Neural Network for Recommendation}",
+    volume = "34",
+    year = "2022"
+}
